@@ -1,1 +1,2 @@
 1. Prediction of house prices (Linear regression)
+2. Fake audio detector using LCNN
