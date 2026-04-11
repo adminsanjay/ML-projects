@@ -1,2 +1,5 @@
 1. Prediction of house prices (Linear regression)
 2. Fake audio detector using LCNN
+3. Fake news detection
+4. Fake audio detector using VGG16
+5. Fake audio detector using LSTM
